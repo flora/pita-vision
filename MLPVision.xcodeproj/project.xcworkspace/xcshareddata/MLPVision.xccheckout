@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28CCC16F-E249-4EB7-B67C-5866F2AB7805</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MLPVision</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F17482EB-5BC8-4C05-8464-8BB5EA8E0474</key>
+		<string>https://github.com/florajin/pita-vision.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MLPVision/MLPVision.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F17482EB-5BC8-4C05-8464-8BB5EA8E0474</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/florajin/pita-vision.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F17482EB-5BC8-4C05-8464-8BB5EA8E0474</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F17482EB-5BC8-4C05-8464-8BB5EA8E0474</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pita-vision</string>
+		</dict>
+	</array>
+</dict>
+</plist>
